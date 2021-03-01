@@ -2,8 +2,7 @@
 
 An example of clustering with hierarchy is taxonomy of the animal kingdom.
 For instance there is the general term Animal. Sub-clusters are fish, mammals and birds. For instance there
-are birds which can fly and those that can't. We can continue in this way until we reach dogs and cats
-even then we can divide dogs and cats into different breeds.
+are birds which can fly and those that can't. We can continue in this way until we reach dogs and cats. Even then we can divide dogs and cats into different breeds.
 Moreover some breeds have sub-breeds. This is called hierarchy of clusters. There are two types of hierarchical clustering agglomerative or bottom up and divisive or top down.
 With divisive clustering we start from a situation where all observations are in the same cluster like
 the dinosaurs then we split this big cluster into two smaller ones.
